@@ -91,6 +91,9 @@ where:
 
 
 #### 2. Calculate the Sample Mean:
+$$
+\bar{\mathbf{\alpha}} = \frac{1}{k} \sum_{i=1}^{k} \mathbf{\alpha}_i
+$$
 
 $$
 \bar{\boldsymbol{\alpha}}
