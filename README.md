@@ -95,14 +95,6 @@ $$
 \bar{\mathbf{\alpha}} = \frac{1}{k} \sum_{i=1}^{k} \mathbf{\alpha}_i
 $$
 
-$$
-\bar{\boldsymbol{\alpha}}
-=
-\frac{1}{k}
-\sum_{i=1}^{k}
-\boldsymbol{\alpha}_i
-$$
-
 
 The difference between the row vector and the sample mean is used to obtain the matrix:
 
